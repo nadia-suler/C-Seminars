@@ -1,0 +1,15 @@
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\C# Seminars new\Example 3\bin\Debug\net6.0\Example 3.exe
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\C# Seminars new\Example 3\bin\Debug\net6.0\Example 3.deps.json
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\C# Seminars new\Example 3\bin\Debug\net6.0\Example 3.runtimeconfig.json
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\C# Seminars new\Example 3\bin\Debug\net6.0\Example 3.dll
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\C# Seminars new\Example 3\bin\Debug\net6.0\Example 3.pdb
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\C# Seminars new\Example 3\obj\Debug\net6.0\Example 3.csproj.AssemblyReference.cache
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\C# Seminars new\Example 3\obj\Debug\net6.0\Example 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\C# Seminars new\Example 3\obj\Debug\net6.0\Example 3.AssemblyInfoInputs.cache
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\C# Seminars new\Example 3\obj\Debug\net6.0\Example 3.AssemblyInfo.cs
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\C# Seminars new\Example 3\obj\Debug\net6.0\Example 3.csproj.CoreCompileInputs.cache
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\C# Seminars new\Example 3\obj\Debug\net6.0\Example 3.dll
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\C# Seminars new\Example 3\obj\Debug\net6.0\refint\Example 3.dll
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\C# Seminars new\Example 3\obj\Debug\net6.0\Example 3.pdb
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\C# Seminars new\Example 3\obj\Debug\net6.0\Example 3.genruntimeconfig.cache
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\C# Seminars new\Example 3\obj\Debug\net6.0\ref\Example 3.dll
